@@ -1,0 +1,22 @@
+{
+  "name": "producto2",
+  "Short_name": "product",
+  "icons": [
+      {"src": "imagenes/Git.png",
+        "sizes": "192x192",
+        "type": "imagen/png"},
+      {"src": "imagenes/JavaScript.png",
+      "sizes": "192x192",
+      "type": "imagen/png"},
+      {"src": "imagenes/VisualStudio.png",
+      "sizes": "192x192",
+      "type": "imagen/png"},
+      {"src": "imagenes/XAMPP.png",
+      "sizes": "192x192",
+      "type": "imagen/png"}
+  ],
+  "Start_url": "/index.php",
+  "display": "standalone",
+  "background_color": "#333333",
+  "theme_color": "#6200ee"
+}
