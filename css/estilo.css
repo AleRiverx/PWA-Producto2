@@ -20,10 +20,6 @@ header h4{
   bottom: 1rem;
   font-size: 1.6rem;
 }
-img {
-  width: 100px;
-  height: auto;
-}
 .inicio{
   position: fixed;
   z-index: 1;

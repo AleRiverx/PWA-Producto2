@@ -6,7 +6,7 @@ const CACHE_NAME = 'static-cache-v9';
 // CODELAB: Add list of files to cache here.
 const FILES_TO_CACHE = [
   '/offline.html',
-  '/index.php',
+  '/index.html',
   '/ajax_info.html',
   '/ajax_info1.html',
   '/imagenes/Git.png',
